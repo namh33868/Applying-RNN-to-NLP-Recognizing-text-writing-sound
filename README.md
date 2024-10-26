@@ -55,7 +55,7 @@ Lưu ý: Việc sử dụng GPU sẽ giúp cải thiện đáng kể hiệu su�
 ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
-   venv\Scripts\activate     # Windows
+   venv\Scripts\activate.bat     # Windows
 ```
 
 3. Cài đặt các thư viện yêu cầu:
