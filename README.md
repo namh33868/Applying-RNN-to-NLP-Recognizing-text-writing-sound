@@ -47,7 +47,7 @@ Lưu ý: Việc sử dụng GPU sẽ giúp cải thiện đáng kể hiệu su�
 
 1. Clone repository:
 ```bash
-   git clone <repository-url>
+   git clone[ <repository-url>](https://github.com/namh33868/Applying-RNN-to-NLP-Recognizing-text-writing-sound.git)
    cd <project-folder>
 ```
 
