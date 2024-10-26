@@ -1,0 +1,11 @@
+{
+    "train": [
+      {"audio": "path/to/yes.wav", "label": "yes"},
+      {"audio": "path/to/no.wav", "label": "no"},
+      {"audio": "path/to/up.wav", "label": "up"}
+    ],
+    "test": [
+      {"audio": "path/to/down.wav", "label": "down"}
+    ]
+  }
+  

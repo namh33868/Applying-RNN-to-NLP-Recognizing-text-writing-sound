@@ -1,0 +1,21 @@
+# Các thư viện chính cho xử lý dữ liệu và học máy
+tensorflow==2.8.0
+tensorflow_datasets==4.5.2
+numpy==1.21.5
+Pillow==9.0.1
+matplotlib==3.5.1
+
+# Thư viện xử lý âm thanh
+pydub==0.25.1
+soundfile==0.10.3.post1
+
+# Thư viện dịch thuật và nhận dạng
+googletrans==3.1.0a0
+SpeechRecognition==3.8.1
+pytesseract==0.3.8
+
+# Thư viện bổ sung
+tensorflow_hub==0.12.0
+
+# Lưu ý: tkinter, subprocess, json, wave và os 
+# thường đã được cài đặt sẵn với Python

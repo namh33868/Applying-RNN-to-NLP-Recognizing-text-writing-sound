@@ -1,0 +1,12 @@
+{
+    "train": [
+      {"image": "path/to/image1.png", "label": 1},
+      {"image": "path/to/image2.png", "label": 2},
+      {"image": "path/to/image3.png", "label": 3}
+    ],
+    "test": [
+      {"image": "path/to/image4.png", "label": 4},
+      {"image": "path/to/image5.png", "label": 5}
+    ]
+  }
+  
